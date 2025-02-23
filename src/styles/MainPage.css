@@ -1,0 +1,10 @@
+.container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .upload-button {
+    margin-bottom: 20px;
+    border: 2px dashed;
+    background-color: #f8f9fa;
+}
